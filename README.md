@@ -17,5 +17,5 @@ File structure:
     - src/utils : contains the utility functions.
 
 UI Images
-    ![Customer List Page](<public/images/Customer Details Screen.png>)
+    ![Customer List Page](<public/images/Customer List.png>)
     ![Customer Details Page](<public/images/Customer Details Screen.png>)
