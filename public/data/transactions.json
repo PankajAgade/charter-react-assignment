@@ -1,0 +1,158 @@
+[
+    {
+        "customerId": 1,
+        "transactionId": "T001",
+        "amount": 120.5,
+        "date": "2025-01-12"
+    },
+    {
+        "customerId": 1,
+        "transactionId": "T002",
+        "amount": 75.0,
+        "date": "2024-11-05"
+    },
+    {
+        "customerId": 1,
+        "transactionId": "T003",
+        "amount": 45.0,
+        "date": "2023-03-22"
+    },
+    {
+        "customerId": 1,
+        "transactionId": "T004",
+        "amount": 100.0,
+        "date": "2022-12-01"
+    },
+    {
+        "customerId": 1,
+        "transactionId": "T005",
+        "amount": 200.0,
+        "date": "2021-06-15"
+    },
+    {
+        "customerId": 1,
+        "transactionId": "T06",
+        "amount": 50.0,
+        "date": "2024-01-10"
+    },
+    {
+        "customerId": 1,
+        "transactionId": "T07",
+        "amount": 150.75,
+        "date": "2023-11-11"
+    },
+    {
+        "customerId": 2,
+        "transactionId": "T08",
+        "amount": 54.0,
+        "date": "2025-01-10"
+    },
+    {
+        "customerId": 2,
+        "transactionId": "T09",
+        "amount": 180.0,
+        "date": "2022-02-28"
+    },
+    {
+        "customerId": 2,
+        "transactionId": "T010",
+        "amount": 49.5,
+        "date": "2021-05-05"
+    },
+    {
+        "customerId": 2,
+        "transactionId": "T011",
+        "amount": 101.0,
+        "date": "2023-07-07"
+    },
+    {
+        "customerId": 2,
+        "transactionId": "T012",
+        "amount": 500.0,
+        "date": "2024-08-08"
+    },
+    {
+        "customerId": 3,
+        "transactionId": "T013",
+        "amount": 99.99,
+        "date": "2025-03-11"
+    },
+    {
+        "customerId": 3,
+        "transactionId": "T014",
+        "amount": 150.75,
+        "date": "2021-10-10"
+    },
+    {
+        "customerId": 3,
+        "transactionId": "T015",
+        "amount": 100.0,
+        "date": "2022-09-09"
+    },
+    {
+        "customerId": 3,
+        "transactionId": "T016",
+        "amount": 30.0,
+        "date": "2023-02-02"
+    },
+    {
+        "customerId": 3,
+        "transactionId": "T017",
+        "amount": 275.5,
+        "date": "2024-06-06"
+    },
+    {
+        "customerId": 1,
+        "transactionId": "T018",
+        "amount": 120.0,
+        "date": "2026-04-05"
+    },
+    {
+        "customerId": 1,
+        "transactionId": "T019",
+        "amount": 80.0,
+        "date": "2026-03-20"
+    },
+    {
+        "customerId": 1,
+        "transactionId": "T020",
+        "amount": 150.0,
+        "date": "2026-02-15"
+    },
+    {
+        "customerId": 2,
+        "transactionId": "T021",
+        "amount": 220.0,
+        "date": "2026-04-02"
+    },
+    {
+        "customerId": 2,
+        "transactionId": "T022",
+        "amount": 40.0,
+        "date": "2026-03-10"
+    },
+    {
+        "customerId": 2,
+        "transactionId": "T023",
+        "amount": 110.0,
+        "date": "2026-02-10"
+    },
+    {
+        "customerId": 3,
+        "transactionId": "T024",
+        "amount": 95.0,
+        "date": "2026-04-08"
+    },
+    {
+        "customerId": 3,
+        "transactionId": "T025",
+        "amount": 200.0,
+        "date": "2026-03-25"
+    },
+    {
+        "customerId": 3,
+        "transactionId": "T026",
+        "amount": 300.0,
+        "date": "2026-02-28"
+    }
+]

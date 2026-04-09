@@ -1,0 +1,77 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.tableContainer {
+    background: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 10px 15px -3px rgba(0, 0, 0, 0.05);
+    overflow: hidden;
+    border: 1px solid #f3f4f6;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+.table th {
+    background-color: #f9fafb;
+    padding: 16px 24px;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #6b7280;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+.table td {
+    padding: 16px 24px;
+    border-bottom: 1px solid #f3f4f6;
+    vertical-align: middle;
+}
+
+.avatarColumn {
+    width: 100px;
+}
+
+.avatar {
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: 600;
+    font-size: 15px;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.2);
+    background: #8b5cf6;
+}
+
+.customerName {
+    font-weight: 500;
+    color: #1f2937;
+    font-size: 15px;
+}
+
+.actionColumn {
+    text-align: right;
+    width: 150px;
+}
+
+.viewButton {
+    background-color: white;
+    border: 1px solid #d1d5db;
+    color: #374151;
+    font-weight: 500;
+    font-size: 14px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-family: inherit;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+}

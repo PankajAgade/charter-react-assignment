@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.loading, .error {
+    text-align: center;
+    padding: 60px 40px;
+    font-size: 16px;
+    color: #64748b;
+}
+
+.error {
+    color: #ef4444;
+}
+
+.controls {
+    display: flex;
+    justify-content: flex-end;
+    gap: 16px;
+    margin-bottom: 32px;
+}
